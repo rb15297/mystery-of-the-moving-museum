@@ -1,4 +1,3 @@
-# Mystery of the Moving Museum
+# Mystery of the Moving Museum — student site
 
-Student escape room site only (3rd Grade NGSS Forces & Interactions).
-No teacher guides, answer keys, or printable PDFs.
+Self-paced classroom student site. Teacher guides not included.
